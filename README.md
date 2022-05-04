@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ### Hi there friends 👋
 ##  Hello everyone , this is *Abhiram*(he/him),student. I love exploring various **technologies** and like to collaborate with folks on various projects via hackathons. Feel free to connect with me via [twitter](https://twitter.com/gullaalli_abhi).
 
