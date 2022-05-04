@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there friends 👋
 
 <!--
 **gullapalli9482/gullapalli9482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
