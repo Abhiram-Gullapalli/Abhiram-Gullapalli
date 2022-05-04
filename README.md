@@ -1,5 +1,5 @@
 ### Hi there friends 👋
-##  Hello everyone , this is *Abhiram*(he/him),student. I love exploring various **technologies** and like to collaborate with folks on various projects via hackathons.Feel free to connect with me via [twitter](https://twitter.com/gullaalli_abhi).
+##  Hello everyone , this is *Abhiram*(he/him),student. I love exploring various **technologies** and like to collaborate with folks on various projects via hackathons. Feel free to connect with me via [twitter](https://twitter.com/gullaalli_abhi).
 <!--
 **gullapalli9482/gullapalli9482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
