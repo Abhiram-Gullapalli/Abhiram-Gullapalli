@@ -12,7 +12,7 @@
 </div>
 
 ### Hi there friends 👋
-##  Hello everyone , this is *Abhiram*(he/him),student. I love exploring various **technologies** and like to collaborate with folks on various projects via hackathons. Feel free to connect with me via [twitter](https://twitter.com/gullaalli_abhi).
+##  Hello everyone , this is *Abhiram* (he/him),student. I love exploring various **technologies** and like to collaborate with folks on various projects via hackathons. Feel free to connect with me via [twitter](https://twitter.com/gullaalli_abhi).
 
 <img 
    src="https://github-readme-stats.vercel.app/api?username=gullapalli9482&show_icons=true&theme=tokyonight" 
