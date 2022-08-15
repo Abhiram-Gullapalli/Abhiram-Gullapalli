@@ -37,7 +37,7 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gullapalli9482&theme=solarized-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abhiram-Gullapalli&theme=solarized-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!--
 **gullapalli9482/gullapalli9482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
